@@ -1,0 +1,72 @@
+
+.typewriter{
+    font-family: Courier, monospace;
+    color: #CAF4F4;
+    text-align: center;
+
+}
+h1 {
+    display: inline-block;
+    overflow: hidden;
+    letter-spacing: 2px;
+    animation: typing 2s steps(8, end), blink .10s step-end infinite;
+    white-space: nowrap;
+    font-size: 100px;
+    font-weight: 100;
+    border-right: 4px solid;
+    box-sizing: border-box;
+}
+
+@keyframes typing {
+    from {
+        width: 0
+    }
+    to {
+        width: 40%
+    }
+}
+
+@keyframes blink {
+    from, to {
+        border-color: transparent
+    }
+    50% {
+        border-color: transparent;
+    }
+}
+
+
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+img.image {
+    width: 25%;
+    height: 25%;
+}
+
+.info {
+    margin: auto;
+    width: 50%;
+    background-color: #FDE0D9;
+    border: 25px solid #FDE0D9;
+    border-radius: 30px;
+    text-align: center;
+}
+
+p {
+    color: #86b8b8;
+    font-family: Courier, monospace;
+    font-size: 20px;
+}
+
+.about {
+    color: #86b8b8;
+    font-family: Courier, monospace;
+    font-size: 25px;
+}
+
+.break {
+    color: #86b8b8;
+}

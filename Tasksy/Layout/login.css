@@ -1,0 +1,71 @@
+
+form {
+    border: 3px solid #FCFFE9;
+    color: #86b8b8;
+    font-family: Courier, monospace;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #FDE0D9;
+    box-sizing: border-box;
+    background-color: #FDE0D9;
+    font-family: Courier, monospace;
+    color: #86b8b8;
+}
+
+button {
+    background-color: #CAEFD1;
+    color: #8fa894;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    font-family: Courier, monospace;
+}
+
+button:hover {
+    background-color: #d6e5d8;
+}
+
+.imgcontainer {
+    text-align: center;
+    margin: 20px 0 12px 0;
+}
+
+img.avatar {
+    width: 10%;
+    height: 10%;
+    border-radius: 50%;
+}
+
+.sign {
+    color: #86b8b8;
+}
+
+.sign:hover {
+    color: #FDE0D9;
+}
+
+.container {
+    padding: 16px;
+    margin: auto;
+    max-width: 500px;
+    font-family: Courier, monospace;
+}
+
+span.user_password {
+    float: right;
+    padding-top: 16px;
+}
+
+@media screen and (max-width: 300px) {
+    span.user_password {
+        display: block;
+        float: none;
+    }
+}

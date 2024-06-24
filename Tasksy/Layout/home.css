@@ -1,0 +1,41 @@
+
+.typewriter{
+    font-family: Courier, monospace;
+    color: #CAF4F4;
+    text-align: center;
+    left: 0;
+    margin-top: -100px;
+    top: 60%;
+    width: 100%;
+
+}
+h1 {
+    display: inline-block;
+    overflow: hidden;
+    letter-spacing: 2px;
+    animation: typing 2s steps(6, end), blink .10s step-end infinite;
+    white-space: nowrap;
+    font-size: 150px;
+    font-weight: 100;
+    border-right: 4px solid;
+    box-sizing: border-box;
+    line-height: 500px;
+}
+
+@keyframes typing {
+    from {
+        width: 0
+    }
+    to {
+        width: 45%
+    }
+}
+
+@keyframes blink {
+    from, to {
+        border-color: transparent
+    }
+    50% {
+        border-color: transparent;
+    }
+}

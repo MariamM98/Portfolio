@@ -1,0 +1,34 @@
+body {
+    background-color: #FCFFE9;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #CAF4F4;
+    font-family: Courier, monospace;
+}
+
+li {
+    float: left;
+    display: inline;
+    border-right: 1px solid #CAF4F4;
+}
+
+li a {
+    display: inline-block;
+    color: #86b8b8;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #FCFFE9;
+}
+
+li:last-child {
+    border-right: none;
+}

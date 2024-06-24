@@ -1,0 +1,245 @@
+.typewriter{
+    font-family: Courier, monospace;
+    color: #CAF4F4;
+    text-align: center;
+
+}
+h1 {
+    display: inline-block;
+    overflow: hidden;
+    letter-spacing: 2px;
+    animation: typing 2s steps(8, end), blink .10s step-end infinite;
+    white-space: nowrap;
+    font-size: 100px;
+    font-weight: 100;
+    border-right: 4px solid;
+    box-sizing: border-box;
+}
+
+@keyframes typing {
+    from {
+        width: 0
+    }
+    to {
+        width: 40%
+    }
+}
+
+@keyframes blink {
+    from, to {
+        border-color: transparent
+    }
+    50% {
+        border-color: transparent;
+    }
+}
+
+.container {
+    margin: auto;
+    width: 80%;
+    background-color: transparent;
+    border: 25px solid transparent;
+    border-radius: 30px;
+    display: flex;
+}
+
+.lists{
+    color: #f1b8ab;
+    font-family: Courier, monospace;
+    padding: 30px;
+    background-color: #FDE0D9;
+    float: left;
+    width: 15%;
+}
+
+.title {
+    color: #f1b8ab;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+}
+.title:hover {
+    color: #86b8b8;
+}
+
+.listNames a {
+    color: #f1b8ab;
+    font-family: Courier, monospace;
+    font-size: 15px;
+    background-color: #FDE0D9;
+    float: left;
+    list-style-type: decimal;
+    text-decoration: none;
+}
+
+.listNames a:hover {
+    color: #86b8b8;
+}
+
+.main {
+    color: #8fa894;
+    font-family: Courier, monospace;
+    font-size: 20px;
+    padding: 30px;
+    background-color: #CAEFD1;
+    float: right;
+    width: 85%;
+}
+
+.taskForm {
+    width: 50%;
+    margin: 30px auto;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+form p {
+    color: #8fa894;
+    margin: 0;
+    font-size: x-small;
+}
+
+.taskInput {
+    width: 75%;
+    height: 15px;
+    padding: 10px;
+    border: 2px solid #CAEFD1;
+    background-color: #FCFFE9;
+    font-family: Courier, monospace;
+}
+
+.add {
+    height: 39px;
+    font-family: Courier, monospace;
+    background-color: #CAEFD1;
+    color: #8fa894;
+    border: 2px solid transparent;
+    border-radius: 5px;
+    padding: 5px 20px;
+}
+
+.add:hover {
+    color: #CAEFD1;
+    background: #8fa894;
+}
+
+table {
+    width: 100%;
+    margin: 30px auto;
+    border-collapse: collapse;
+    font-family: Courier, monospace;
+}
+
+tr {
+    border-bottom: 1px solid #8fa894;
+}
+
+.one {
+    border-right: 1px solid #8fa894;
+}
+
+th {
+
+    font-size: 19px;
+    color: #8fa894;
+    font-family: Courier, monospace;
+    text-align: left;
+}
+
+th, td{
+    border: none;
+    height: 30px;
+    padding: 2px;
+}
+
+.task {
+    text-align: left;
+}
+
+.delete{
+    text-align: center;
+}
+
+.delete{
+    background-color: #CAEFD1;
+    color: #8fa894;
+    padding: 1px 6px;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+.delete:hover{
+    color: #CAEFD1;
+    background: #8fa894;
+}
+
+.edit{
+    background-color: #CAEFD1;
+    color: #8fa894;
+    padding: 1px 6px;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+.edit:hover{
+    color: #CAEFD1;
+    background: #8fa894;
+}
+
+.option{
+    background-color: #CAEFD1;
+    color: #8fa894;
+    padding: 1px 6px;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+.option:hover{
+    color: #CAEFD1;
+    background: #8fa894;
+}
+
+form {
+    background-color: #CAEFD1;
+    color: #8fa894;
+    font-family: Courier, monospace;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #FCFFE9;
+    box-sizing: border-box;
+    background-color: #FCFFE9;
+    font-family: Courier, monospace;
+    color: #86b8b8;
+}
+
+.add{
+    background-color: #CAEFD1;
+    color: #8fa894;
+    padding: 1px 6px;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+.add:hover{
+    color: #CAEFD1;
+    background: #8fa894;
+}
+
+.search{
+    background-color: #CAEFD1;
+    color: #8fa894;
+    padding: 1px 6px;
+    border-radius: 3px;
+    text-decoration: none;
+    border-color: transparent;
+}
+
+.search:hover{
+    color: #CAEFD1;
+    background: #8fa894;
+}
