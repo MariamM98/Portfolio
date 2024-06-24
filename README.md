@@ -46,7 +46,7 @@ Another notable project I’m particularly proud of is a mobile application that
 I recently completed my degree in Digital Forensics and Cyber Security, and obtained a certificate in UI/UX design. During my studies, I particularly enjoyed modules on web development and design, both server-side and front-end. Some of my notable projects include [mention specific projects or accomplishments you're proud of].
 
 # Let's Connect
-I am always open to connecting with like-minded individuals, collaborating on exciting projects, or discussing new opportunities. Feel free to reach out to me via [Your Preferred Contact Method, e.g., email, LinkedIn, Twitter].
+I am always open to connecting with like-minded individuals, collaborating on exciting projects, or discussing new opportunities. Feel free to reach out to me via LinkedIn (https://www.linkedin.com/in/mariam-mahdi-752b71297/).
 
 Thank you for visiting my portfolio. I hope you find my work interesting and insightful!
 
