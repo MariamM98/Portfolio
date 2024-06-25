@@ -43,7 +43,7 @@ Additionally, I developed a wireframe and prototype for the mobile version of an
 Another notable project I’m particularly proud of is a mobile application that allows users to scan a QR code and receive information on whether the QR code is safe or not. This application leverages my background in cyber security to provide a secure and user-friendly tool for verifying QR codes, ensuring users can navigate digital spaces safely.
 
 # A Bit About Me
-I recently completed my degree in Digital Forensics and Cyber Security, and obtained a certificate in UI/UX design. During my studies, I particularly enjoyed modules on web development and design, both server-side and front-end. Some of my notable projects include [mention specific projects or accomplishments you're proud of].
+I recently completed my degree in Digital Forensics and Cyber Security, and obtained a certificate in UI/UX design. During my studies, I particularly enjoyed modules on web development and design, both server-side and front-end. Some of my notable projects include a QR Code Scanner mobile application.
 
 # Let's Connect
 I am always open to connecting with like-minded individuals, collaborating on exciting projects, or discussing new opportunities. Feel free to reach out to me via LinkedIn (https://www.linkedin.com/in/mariam-mahdi-752b71297/).
