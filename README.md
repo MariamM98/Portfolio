@@ -33,14 +33,25 @@ Delete Tasks: Remove tasks that are no longer needed.
 
 I implemented a MySQL database to store both login information and the task list, ensuring that user data is saved and securely managed. This project showcases my ability to integrate front-end design with back-end functionality, creating a seamless and efficient user experience.
 
+![Frame 45](https://github.com/MariamM98/Portfolio/assets/168841004/e740dbed-58c8-42a7-b1d7-676dd9f1cc58)
+
 ## Skincare Website Wireframe and Prototype
 Another project is a wireframe and prototype for a Skincare Website. This project illustrates the process of selecting a product and checking out as a guest, demonstrating the user journey from product selection to purchase. The wireframe highlights a clean, user-friendly design, while the prototype brings the user experience to life.
+
+![Frame 41](https://github.com/MariamM98/Portfolio/assets/168841004/79484b8d-97b0-40da-b51d-de27e2c54a22)
 
 ## Mobile Version for Car Rental Website
 Additionally, I developed a wireframe and prototype for the mobile version of an existing Car Rental Website. This project focuses on optimizing the user experience for mobile devices, ensuring that users can easily browse available cars, make reservations, and manage their bookings on the go.
 
+![Picsart_24-07-02_16-45-37-594 (1)](https://github.com/MariamM98/Portfolio/assets/168841004/45f736ab-dc00-4e63-ab81-587fc0739b98)
+
 ## QR Code Safety Mobile Application
 Another notable project I’m particularly proud of is a mobile application that allows users to scan a QR code and receive information on whether the QR code is safe or not. This application leverages my background in cyber security to provide a secure and user-friendly tool for verifying QR codes, ensuring users can navigate digital spaces safely.
+
+![Frame 45](https://github.com/MariamM98/Portfolio/assets/168841004/20ae09b0-385b-4a84-a6b7-760ded6819e5)
+
+## Figma Project Portfolio
+To showcase all my projects, I have also created a comprehensive Figma file of my portfolio. This interactive portfolio provides an overview of each project, including images.
 
 # A Bit About Me
 I recently completed my degree in Digital Forensics and Cyber Security, and obtained a certificate in UI/UX design. During my studies, I particularly enjoyed modules on web development and design, both server-side and front-end. Some of my notable projects include a QR Code Scanner mobile application.
