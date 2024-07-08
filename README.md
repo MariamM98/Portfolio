@@ -53,6 +53,8 @@ Another notable project I’m particularly proud of is a mobile application that
 ## Figma Project Portfolio
 To showcase all my projects, I have also created a comprehensive Figma file of my portfolio. This interactive portfolio provides an overview of each project, including images.
 
+![Frame 45](https://github.com/MariamM98/Portfolio/assets/168841004/cc118866-c2be-468e-84c6-558002238781)
+
 # A Bit About Me
 I recently completed my degree in Digital Forensics and Cyber Security, and obtained a certificate in UI/UX design. During my studies, I particularly enjoyed modules on web development and design, both server-side and front-end. Some of my notable projects include a QR Code Scanner mobile application.
 
